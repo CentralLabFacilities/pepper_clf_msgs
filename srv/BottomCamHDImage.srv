@@ -1,0 +1,4 @@
+bool take_picture
+---
+sensor_msgs/Image img
+bool success

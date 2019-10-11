@@ -1,0 +1,4 @@
+# task can be either: pregrasp, grasp, place, handover
+string task
+---
+bool success

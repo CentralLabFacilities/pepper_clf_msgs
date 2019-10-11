@@ -1,0 +1,8 @@
+# goal definition
+string uuid
+---
+# result definition
+bool result
+---
+# feedback
+bool lost

@@ -1,0 +1,5 @@
+time start
+time end
+---
+float64 angle
+bool valid

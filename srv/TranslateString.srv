@@ -1,0 +1,5 @@
+string language
+string target_language
+string sentence
+---
+string translated_sentence
